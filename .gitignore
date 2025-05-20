@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+sdist/
+*.egg-info/
+.installed.cfg
+*.whl
+wheelhouse/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# IDE-specific files
+.idea/
+.project
+.settings
+*.log
+*.iml
+*.ipr
+*.iws
+
+# Virtual environment
+venv/
+env/
+.venv/
+Envs/
+*/bin/activate
+*/Scripts/activate
+
+# Jupyter Notebook related
+.ipynb_checkpoints/
+
+# TensorFlow related
+*.ckpt
+*.tfevents*
+
+# PyTorch related
+*.pt
+*.pth
+*.onnx
+
+# Data and large files (uncomment if you don't want to track them)
+# data/
+# models/
+# *.csv
+# *.npy
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.user
+*.vscode/
