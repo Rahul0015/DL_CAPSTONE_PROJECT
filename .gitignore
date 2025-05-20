@@ -62,3 +62,8 @@ Thumbs.db
 # User-specific files
 *.user
 *.vscode/
+# Data and large files
+data/
+models/
+*.xlsx # To ignore your Excel file
+*.npy  # To ignore your NumPy arrays
